@@ -1,5 +1,2 @@
 {
-  "require": {
-    "symfony/yaml": "2.6.4"
-  }
 }
